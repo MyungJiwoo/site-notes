@@ -1,6 +1,6 @@
 {
   "name": "Site Notes",
-  "description": "Base Level Extension",
+  "description": "Url 기반 메모장",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
